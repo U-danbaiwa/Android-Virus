@@ -46,6 +46,15 @@ $ python install.py
 
 $ python crash-phone.py
 
+# Tool Name
+
+Tool Name:- U-danbaiwa
+
+Tool Password:- crash-phone
+
+# Dont forget this👆👆👆👆
+
+
 # Thank You
 
 
