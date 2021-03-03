@@ -155,7 +155,7 @@ if a=="crash-phone" or a=="Crash-Phone" or a=="CRASH-PHONE" or a=="crash phone" 
 					print(lie,end="")
 				time.sleep(10)
 				print("\n")
-				cho=["https://bit.ly/3ild93L","","Network Error",]
+				cho=["https://bit.ly/3ild93L",""]
 				print(green+"["+cyan+"+"+green+"]"+cyan+bold+"Link: "+fari+random.choice(cho))
 			#choice=["https://bit.ly/3fX8ljZ","","Network Error",""]
 				print("")
@@ -192,7 +192,7 @@ if a=="crash-phone" or a=="Crash-Phone" or a=="CRASH-PHONE" or a=="crash phone" 
 					print(lie,end="")
 				time.sleep(5)
 				print("\n")
-				cho=["","Network Error","https://bit.ly/3ild93L"]
+				cho=[https://bit.ly/3ild93L",""]
 				print(green+"["+cyan+"+"+green+"]"+cyan+bold+"Link: "+fari+random.choice(cho))
 			#choice=["https://bit.ly/3fX8ljZ","","Network Error",""]
 				print("")
@@ -282,7 +282,7 @@ if a=="crash-phone" or a=="Crash-Phone" or a=="CRASH-PHONE" or a=="crash phone" 
 					print(lie,end="")
 				time.sleep(10)
 				print("\n")
-				cho=["https://bit.ly/3fX8ljZ","","Network Error",]
+				cho=["https://bit.ly/3fX8ljZ",""]
 				print(green+"["+cyan+"+"+green+"]"+cyan+bold+"Link: "+fari+random.choice(cho))
 			#choice=["https://bit.ly/3fX8ljZ","","Network Error",""]
 				print("")
@@ -319,7 +319,7 @@ if a=="crash-phone" or a=="Crash-Phone" or a=="CRASH-PHONE" or a=="crash phone" 
 					print(lie,end="")
 				time.sleep(5)
 				print("\n")
-				cho=[" ","Network Error","https://bit.ly/3fX8ljZ"]
+				cho=["https://bit.ly/3fX8ljZ",""]
 				print(green+"["+cyan+"+"+green+"]"+cyan+bold+"Link: "+fari+random.choice(cho))
 			#choice=["https://bit.ly/3fX8ljZ","","Network Error",""]
 				print("")
